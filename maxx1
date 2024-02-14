@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Apps</title>
+    <style>
+        body {
+            font-family: "Black Ops One", Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #212121; /* Dark background color */
+            color: #fff; /* Text color */
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #333; /* Dark container background color */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* White shadow */
+        }
+        .button {
+            display: inline-block;
+            margin: 10px;
+            padding: 15px 25px;
+            font-size: 16px;
+            text-align: center;
+            text-decoration: none;
+            color: #fff;
+            background-color: #4285f4;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #3367d6;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h2>Google Apps</h2>
+        <div>
+            <a class="button" href="https://mail.google.com/">Gmail</a>
+            <a class="button" href="https://drive.google.com/">Google Drive</a>
+            <a class="button" href="https://docs.google.com/">Google Docs</a>
+            <a class="button" href="https://sheets.google.com/">Google Sheets</a>
+            <a class="button" href="https://slides.google.com/">Google Slides</a>
+            <a class="button" href="https://calendar.google.com/">Google Calendar</a>
+            <a class="button" href="https://photos.google.com/">Google Photos</a>
+            <a class="button" href="https://maps.google.com/">Google Maps</a>
+            <a class="button" href="https://translate.google.com/">Google Translate</a>
+            <a class="button" href="https://news.google.com/">Google News</a>
+            <a class="button" href="https://meet.google.com/">Google Meet</a>
+            <a class="button" href="https://hangouts.google.com/">Google Hangouts</a>
+            <a class="button" href="https://keep.google.com/">Google Keep</a>
+            <a class="button" href="https://earth.google.com/">Google Earth</a>
+            <a class="button" href="https://contacts.google.com/">Google Contacts</a>
+            <a class="button" href="https://classroom.google.com/">Google Classroom</a>
+            <a class="button" href="https://duo.google.com/">Google Duo</a>
+            <a class="button" href="https://play.google.com/">Google Play</a>
+            <a class="button" href="https://youtube.com/">YouTube</a>
+            <a class="button" href="https://ads.google.com/">Google Ads</a>
+            <a class="button" href="https://analytics.google.com/">Google Analytics</a>
+            <a class="button" href="https://chrome.google.com/">Google Chrome</a>
+            <a class="button" href="https://cloud.google.com/">Google Cloud Platform</a>
+            <a class="button" href="https://fi.google.com/">Google Fi</a>
+            <a class="button" href="https://fi.google.com/about/plans/">Google Fi Plans</a>
+            <a class="button" href="https://fi.google.com/about/">About Google Fi</a>
+            <a class="button" href="https://fi.google.com/faq/">Google Fi FAQs</a>
+        </div>
+    </div>
+</body>
+</html>
